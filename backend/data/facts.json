@@ -1,0 +1,31 @@
+{
+  "full_name": "Miguel Martinez Comesana",
+  "name": "Mike",
+  "current_role": "Data Scientist and Engineer",
+  "location": "Vigo, Galicia",
+  "email": "miguelinvented@outlook.es",
+  "linkedin": "https://www.linkedin.com/in/miguel-mart%C3%ADnez-comesa%C3%B1a-581b29111/",
+  "specialties": [
+    "AI",
+    "Docker containers",
+    "Statistics"
+  ],
+  "years_experience": 6,
+  "education": [
+    {
+      "degree": "Economics",
+      "institution": "University of Vigo",
+      "year": "2017"
+    },
+    {
+      "degree": "Master of Statistics",
+      "institution": "University of Santiago de Compostela",
+      "year": "2019"
+    },
+    {
+      "degree": "PhD in AI applied to engineering",
+      "institution": "University of Vigo",
+      "year": "2022"
+    }
+  ]
+}
